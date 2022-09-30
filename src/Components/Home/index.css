@@ -1,0 +1,48 @@
+.bg-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 54%;
+  background-color: #152850;
+  padding: 40px 80px;
+}
+
+.top-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 80px;
+}
+
+.home-website-logo {
+  width: 100px;
+}
+
+.logout-button {
+  width: 80px;
+  height: 30px;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  font-family: 14px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+}
+
+.home-title {
+  font-family: 'roboto';
+  font-size: 38px;
+  color: #ffffff;
+}
+
+.digital-card {
+  width: 450px;
+}
